@@ -11,7 +11,7 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 <br>
 <br>
 <br>
-<img src="Hospital fundmental.png" />
+<img src="Hospital fundamental.png" />
 
 
 
